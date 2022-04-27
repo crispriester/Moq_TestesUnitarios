@@ -6,7 +6,6 @@ namespace Repository.Interfaces
 {
     public interface ISiteEcommerceRepository
     {
-        List<SiteEcommerceEntity> Patch(Guid id);
         List<SiteEcommerceEntity> GetCollection();
     }
 }

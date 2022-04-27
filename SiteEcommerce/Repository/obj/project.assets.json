@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cristina.priester\\Desktop\\E-Commerce\\-e-commerce-main(1)\\-e-commerce-main\\SiteEcommerce\\Repository\\Repository.csproj",
+      "projectUniqueName": "C:\\Users\\cristina.priester\\Downloads\\mock-treino-main\\mock-treino-main\\-e-commerce\\SiteEcommerce\\Repository\\Repository.csproj",
       "projectName": "Repository",
-      "projectPath": "C:\\Users\\cristina.priester\\Desktop\\E-Commerce\\-e-commerce-main(1)\\-e-commerce-main\\SiteEcommerce\\Repository\\Repository.csproj",
+      "projectPath": "C:\\Users\\cristina.priester\\Downloads\\mock-treino-main\\mock-treino-main\\-e-commerce\\SiteEcommerce\\Repository\\Repository.csproj",
       "packagesPath": "C:\\Users\\cristina.priester\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cristina.priester\\Desktop\\E-Commerce\\-e-commerce-main(1)\\-e-commerce-main\\SiteEcommerce\\Repository\\obj\\",
+      "outputPath": "C:\\Users\\cristina.priester\\Downloads\\mock-treino-main\\mock-treino-main\\-e-commerce\\SiteEcommerce\\Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

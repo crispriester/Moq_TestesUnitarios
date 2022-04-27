@@ -21,14 +21,23 @@ namespace Services.Services
 
         public (int, object) Patch(Guid id)
         {
-            var listaEntidade = _siteEcommerceRepository.Patch(id);
+            var listaEntidade = _siteEcommerceRepository.GetCollection();
 
             if (!listaEntidade.Any())
             {
                 return ((int)EnumRetornoHttp.NotFound, new MensagemRetornoDto("Produto não encontrado."));
             }
 
-            List<RetornoDto> listaRetornoDto = new List<RetornoDto>();
+            var itemLista = listaEntidade.Find(x => x.Id == id);
+
+            if (itemLista == null)
+            {
+                return ((int)EnumRetornoHttp.NotFound, new MensagemRetornoDto("Id não encontrado."));
+            }
+            
+            itemLista.Situacao = !itemLista.Situacao;
+            
+            List <RetornoDto> listaRetornoDto = new List<RetornoDto>();
 
             foreach (var item in listaEntidade)
             {

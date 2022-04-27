@@ -10,15 +10,27 @@ C:\Users\mateus.petri\Desktop\Trabalho\-e-commerce\SiteEcommerce\Repository\obj\
 C:\Users\mateus.petri\Desktop\Trabalho\-e-commerce\SiteEcommerce\Repository\obj\Debug\net5.0\Repository.dll
 C:\Users\mateus.petri\Desktop\Trabalho\-e-commerce\SiteEcommerce\Repository\obj\Debug\net5.0\ref\Repository.dll
 C:\Users\mateus.petri\Desktop\Trabalho\-e-commerce\SiteEcommerce\Repository\obj\Debug\net5.0\Repository.pdb
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\Repository\bin\Debug\net5.0\Repository.deps.json
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\Repository\bin\Debug\net5.0\Repository.dll
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\Repository\bin\Debug\net5.0\ref\Repository.dll
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\Repository\bin\Debug\net5.0\Repository.pdb
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\Repository\obj\Debug\net5.0\Repository.dll
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\Repository\obj\Debug\net5.0\ref\Repository.dll
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\Repository\obj\Debug\net5.0\Repository.pdb
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\Repository\bin\Debug\net5.0\Repository.deps.json
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\Repository\bin\Debug\net5.0\Repository.dll
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\Repository\bin\Debug\net5.0\Repository.pdb
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\Repository\obj\Debug\net5.0\Repository.dll
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\Repository\obj\Debug\net5.0\refint\Repository.dll
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\Repository\obj\Debug\net5.0\Repository.pdb
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\Repository\obj\Debug\net5.0\ref\Repository.dll
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\Repository\bin\Debug\net5.0\Repository.deps.json
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\Repository\bin\Debug\net5.0\Repository.dll
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\Repository\bin\Debug\net5.0\ref\Repository.dll
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\Repository\bin\Debug\net5.0\Repository.pdb
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\Repository\obj\Debug\net5.0\Repository.dll
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\Repository\obj\Debug\net5.0\ref\Repository.dll
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\Repository\obj\Debug\net5.0\Repository.pdb

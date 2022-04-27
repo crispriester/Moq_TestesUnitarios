@@ -1,10 +1,6 @@
 ﻿using Repository.Interfaces;
 using Repository.Entidades;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Repository.Repositorios
 {
@@ -19,7 +15,7 @@ namespace Repository.Repositorios
                 new SiteEcommerceEntity
                 (
                     "Teclado Mecânico",
-                    799.00,
+                    799.49,
                     true,
                     "./images/image01.png"
                 ),
@@ -90,20 +86,7 @@ namespace Repository.Repositorios
             };
         }
 
-        public List<SiteEcommerceEntity> Patch(Guid id)
-        {
-
-            var entidade = ListaProdutosEntity.Find(x => x.Id == id);
-
-            if (entidade != null)
-            {
-                entidade.Situacao = !entidade.Situacao;
-            }
-
-            return ListaProdutosEntity;
-        }
-
-        public List<SiteEcommerceEntity> GetCollection()
+        public virtual List<SiteEcommerceEntity> GetCollection()
         {
             return ListaProdutosEntity;
         }

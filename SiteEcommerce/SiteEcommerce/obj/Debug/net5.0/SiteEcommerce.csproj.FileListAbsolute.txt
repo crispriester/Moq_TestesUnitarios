@@ -33,38 +33,73 @@ C:\Users\mateus.petri\Desktop\Trabalho\-e-commerce\SiteEcommerce\SiteEcommerce\o
 C:\Users\mateus.petri\Desktop\Trabalho\-e-commerce\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\ref\SiteEcommerce.dll
 C:\Users\mateus.petri\Desktop\Trabalho\-e-commerce\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.pdb
 C:\Users\mateus.petri\Desktop\Trabalho\-e-commerce\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.genruntimeconfig.cache
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\appsettings.json
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\SiteEcommerce.exe
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\SiteEcommerce.deps.json
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\SiteEcommerce.runtimeconfig.json
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\SiteEcommerce.runtimeconfig.dev.json
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\SiteEcommerce.dll
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\ref\SiteEcommerce.dll
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\SiteEcommerce.pdb
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\Repository.dll
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\Services.dll
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\Utils.dll
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\Services.pdb
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\Repository.pdb
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\Utils.pdb
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.csproj.AssemblyReference.cache
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.AssemblyInfoInputs.cache
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.AssemblyInfo.cs
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.csproj.CoreCompileInputs.cache
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\staticwebassets\SiteEcommerce.StaticWebAssets.Manifest.cache
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\staticwebassets\SiteEcommerce.StaticWebAssets.xml
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\scopedcss\bundle\SiteEcommerce.styles.css
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.RazorTargetAssemblyInfo.cache
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.csproj.CopyComplete
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.dll
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\ref\SiteEcommerce.dll
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.pdb
-C:\Users\cristina.priester\Desktop\E-Commerce\-e-commerce-main(1)\-e-commerce-main\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.genruntimeconfig.cache
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\appsettings.json
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\SiteEcommerce.StaticWebAssets.xml
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\SiteEcommerce.exe
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\SiteEcommerce.deps.json
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\SiteEcommerce.runtimeconfig.json
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\SiteEcommerce.runtimeconfig.dev.json
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\SiteEcommerce.dll
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\SiteEcommerce.pdb
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\Repository.dll
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\Services.dll
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\Utils.dll
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\Services.pdb
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\Repository.pdb
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\Utils.pdb
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.csproj.AssemblyReference.cache
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.AssemblyInfoInputs.cache
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.AssemblyInfo.cs
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.csproj.CoreCompileInputs.cache
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\scopedcss\bundle\SiteEcommerce.styles.css
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\staticwebassets\SiteEcommerce.StaticWebAssets.Manifest.cache
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.RazorTargetAssemblyInfo.cache
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.csproj.CopyComplete
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.dll
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\refint\SiteEcommerce.dll
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.pdb
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.genruntimeconfig.cache
+C:\Users\leo-b\Documents\estudos rodrigo\-e-commerce\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\ref\SiteEcommerce.dll
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\appsettings.json
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\SiteEcommerce.exe
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\SiteEcommerce.deps.json
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\SiteEcommerce.runtimeconfig.json
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\SiteEcommerce.runtimeconfig.dev.json
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\SiteEcommerce.dll
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\ref\SiteEcommerce.dll
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\SiteEcommerce.pdb
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\Repository.dll
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\Services.dll
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\Utils.dll
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\Services.pdb
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\Repository.pdb
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\SiteEcommerce\bin\Debug\net5.0\Utils.pdb
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.csproj.AssemblyReference.cache
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.AssemblyInfoInputs.cache
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.AssemblyInfo.cs
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.csproj.CoreCompileInputs.cache
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\staticwebassets\SiteEcommerce.StaticWebAssets.Manifest.cache
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\staticwebassets\SiteEcommerce.StaticWebAssets.xml
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\scopedcss\bundle\SiteEcommerce.styles.css
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.RazorTargetAssemblyInfo.cache
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.csproj.CopyComplete
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.dll
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\ref\SiteEcommerce.dll
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.pdb
+C:\Users\cristina.priester\Downloads\mock-treino-main\mock-treino-main\-e-commerce\SiteEcommerce\SiteEcommerce\obj\Debug\net5.0\SiteEcommerce.genruntimeconfig.cache

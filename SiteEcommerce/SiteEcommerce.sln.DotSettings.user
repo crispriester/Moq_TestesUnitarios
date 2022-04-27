@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f6fe13d7_002Dff23_002D4cd9_002Dbb0e_002D30d8948c87b4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetCollection_Deve_Retornar_Colecao" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::8F2487AC-4299-4D67-A2B1-438E6B8D258B::net6.0::TestesUnitarios.UnitTest1.GetCollection_Deve_Retornar_Colecao&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8F2487AC-4299-4D67-A2B1-438E6B8D258B::net6.0::TestesUnitarios.UnitTest1.GetCollection_Deve_Retornar_Erro&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8F2487AC-4299-4D67-A2B1-438E6B8D258B::net6.0::TestesUnitarios.UnitTest1.Patch_Deve_Atualizar_Lista_De_Objetos&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

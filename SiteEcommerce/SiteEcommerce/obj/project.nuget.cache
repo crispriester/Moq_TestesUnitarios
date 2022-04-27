@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TROhzs6fKZBvIy0NJxkSBnBPl1FIFR0cxcSAWsXqaAMnY8yXqJ+fKyLjwQl6W26q6bBsffQRVB22E9jDsxhm2g==",
+  "dgSpecHash": "fpe3z5dfYBrpgNgLo+CflvjVSu2BB/kVb5EB3kWt17slx+MY/6q6wc3l8092MvqDjOHTiV/aBigfsZTjqmPhgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cristina.priester\\Desktop\\E-Commerce\\-e-commerce-main(1)\\-e-commerce-main\\SiteEcommerce\\SiteEcommerce\\SiteEcommerce.csproj",
+  "projectFilePath": "C:\\Users\\cristina.priester\\Downloads\\mock-treino-main\\mock-treino-main\\-e-commerce\\SiteEcommerce\\SiteEcommerce\\SiteEcommerce.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cristina.priester\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\cristina.priester\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

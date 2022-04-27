@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cristina.priester\\Desktop\\E-Commerce\\-e-commerce-main(1)\\-e-commerce-main\\SiteEcommerce\\SiteEcommerce\\SiteEcommerce.csproj": {}
+    "C:\\Users\\cristina.priester\\Downloads\\mock-treino-main\\mock-treino-main\\-e-commerce\\SiteEcommerce\\SiteEcommerce\\SiteEcommerce.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cristina.priester\\Desktop\\E-Commerce\\-e-commerce-main(1)\\-e-commerce-main\\SiteEcommerce\\Repository\\Repository.csproj": {
+    "C:\\Users\\cristina.priester\\Downloads\\mock-treino-main\\mock-treino-main\\-e-commerce\\SiteEcommerce\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cristina.priester\\Desktop\\E-Commerce\\-e-commerce-main(1)\\-e-commerce-main\\SiteEcommerce\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\cristina.priester\\Downloads\\mock-treino-main\\mock-treino-main\\-e-commerce\\SiteEcommerce\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\cristina.priester\\Desktop\\E-Commerce\\-e-commerce-main(1)\\-e-commerce-main\\SiteEcommerce\\Repository\\Repository.csproj",
+        "projectPath": "C:\\Users\\cristina.priester\\Downloads\\mock-treino-main\\mock-treino-main\\-e-commerce\\SiteEcommerce\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\cristina.priester\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cristina.priester\\Desktop\\E-Commerce\\-e-commerce-main(1)\\-e-commerce-main\\SiteEcommerce\\Repository\\obj\\",
+        "outputPath": "C:\\Users\\cristina.priester\\Downloads\\mock-treino-main\\mock-treino-main\\-e-commerce\\SiteEcommerce\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\cristina.priester\\Desktop\\E-Commerce\\-e-commerce-main(1)\\-e-commerce-main\\SiteEcommerce\\Services\\Services.csproj": {
+    "C:\\Users\\cristina.priester\\Downloads\\mock-treino-main\\mock-treino-main\\-e-commerce\\SiteEcommerce\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cristina.priester\\Desktop\\E-Commerce\\-e-commerce-main(1)\\-e-commerce-main\\SiteEcommerce\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\cristina.priester\\Downloads\\mock-treino-main\\mock-treino-main\\-e-commerce\\SiteEcommerce\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Users\\cristina.priester\\Desktop\\E-Commerce\\-e-commerce-main(1)\\-e-commerce-main\\SiteEcommerce\\Services\\Services.csproj",
+        "projectPath": "C:\\Users\\cristina.priester\\Downloads\\mock-treino-main\\mock-treino-main\\-e-commerce\\SiteEcommerce\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\cristina.priester\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cristina.priester\\Desktop\\E-Commerce\\-e-commerce-main(1)\\-e-commerce-main\\SiteEcommerce\\Services\\obj\\",
+        "outputPath": "C:\\Users\\cristina.priester\\Downloads\\mock-treino-main\\mock-treino-main\\-e-commerce\\SiteEcommerce\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -90,11 +90,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\cristina.priester\\Desktop\\E-Commerce\\-e-commerce-main(1)\\-e-commerce-main\\SiteEcommerce\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\cristina.priester\\Desktop\\E-Commerce\\-e-commerce-main(1)\\-e-commerce-main\\SiteEcommerce\\Repository\\Repository.csproj"
+              "C:\\Users\\cristina.priester\\Downloads\\mock-treino-main\\mock-treino-main\\-e-commerce\\SiteEcommerce\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\cristina.priester\\Downloads\\mock-treino-main\\mock-treino-main\\-e-commerce\\SiteEcommerce\\Repository\\Repository.csproj"
               },
-              "C:\\Users\\cristina.priester\\Desktop\\E-Commerce\\-e-commerce-main(1)\\-e-commerce-main\\SiteEcommerce\\Utils\\Utils.csproj": {
-                "projectPath": "C:\\Users\\cristina.priester\\Desktop\\E-Commerce\\-e-commerce-main(1)\\-e-commerce-main\\SiteEcommerce\\Utils\\Utils.csproj"
+              "C:\\Users\\cristina.priester\\Downloads\\mock-treino-main\\mock-treino-main\\-e-commerce\\SiteEcommerce\\Utils\\Utils.csproj": {
+                "projectPath": "C:\\Users\\cristina.priester\\Downloads\\mock-treino-main\\mock-treino-main\\-e-commerce\\SiteEcommerce\\Utils\\Utils.csproj"
               }
             }
           }
@@ -127,14 +127,14 @@
         }
       }
     },
-    "C:\\Users\\cristina.priester\\Desktop\\E-Commerce\\-e-commerce-main(1)\\-e-commerce-main\\SiteEcommerce\\SiteEcommerce\\SiteEcommerce.csproj": {
+    "C:\\Users\\cristina.priester\\Downloads\\mock-treino-main\\mock-treino-main\\-e-commerce\\SiteEcommerce\\SiteEcommerce\\SiteEcommerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cristina.priester\\Desktop\\E-Commerce\\-e-commerce-main(1)\\-e-commerce-main\\SiteEcommerce\\SiteEcommerce\\SiteEcommerce.csproj",
+        "projectUniqueName": "C:\\Users\\cristina.priester\\Downloads\\mock-treino-main\\mock-treino-main\\-e-commerce\\SiteEcommerce\\SiteEcommerce\\SiteEcommerce.csproj",
         "projectName": "SiteEcommerce",
-        "projectPath": "C:\\Users\\cristina.priester\\Desktop\\E-Commerce\\-e-commerce-main(1)\\-e-commerce-main\\SiteEcommerce\\SiteEcommerce\\SiteEcommerce.csproj",
+        "projectPath": "C:\\Users\\cristina.priester\\Downloads\\mock-treino-main\\mock-treino-main\\-e-commerce\\SiteEcommerce\\SiteEcommerce\\SiteEcommerce.csproj",
         "packagesPath": "C:\\Users\\cristina.priester\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cristina.priester\\Desktop\\E-Commerce\\-e-commerce-main(1)\\-e-commerce-main\\SiteEcommerce\\SiteEcommerce\\obj\\",
+        "outputPath": "C:\\Users\\cristina.priester\\Downloads\\mock-treino-main\\mock-treino-main\\-e-commerce\\SiteEcommerce\\SiteEcommerce\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -155,8 +155,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\cristina.priester\\Desktop\\E-Commerce\\-e-commerce-main(1)\\-e-commerce-main\\SiteEcommerce\\Services\\Services.csproj": {
-                "projectPath": "C:\\Users\\cristina.priester\\Desktop\\E-Commerce\\-e-commerce-main(1)\\-e-commerce-main\\SiteEcommerce\\Services\\Services.csproj"
+              "C:\\Users\\cristina.priester\\Downloads\\mock-treino-main\\mock-treino-main\\-e-commerce\\SiteEcommerce\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\cristina.priester\\Downloads\\mock-treino-main\\mock-treino-main\\-e-commerce\\SiteEcommerce\\Services\\Services.csproj"
               }
             }
           }
@@ -198,14 +198,14 @@
         }
       }
     },
-    "C:\\Users\\cristina.priester\\Desktop\\E-Commerce\\-e-commerce-main(1)\\-e-commerce-main\\SiteEcommerce\\Utils\\Utils.csproj": {
+    "C:\\Users\\cristina.priester\\Downloads\\mock-treino-main\\mock-treino-main\\-e-commerce\\SiteEcommerce\\Utils\\Utils.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cristina.priester\\Desktop\\E-Commerce\\-e-commerce-main(1)\\-e-commerce-main\\SiteEcommerce\\Utils\\Utils.csproj",
+        "projectUniqueName": "C:\\Users\\cristina.priester\\Downloads\\mock-treino-main\\mock-treino-main\\-e-commerce\\SiteEcommerce\\Utils\\Utils.csproj",
         "projectName": "Utils",
-        "projectPath": "C:\\Users\\cristina.priester\\Desktop\\E-Commerce\\-e-commerce-main(1)\\-e-commerce-main\\SiteEcommerce\\Utils\\Utils.csproj",
+        "projectPath": "C:\\Users\\cristina.priester\\Downloads\\mock-treino-main\\mock-treino-main\\-e-commerce\\SiteEcommerce\\Utils\\Utils.csproj",
         "packagesPath": "C:\\Users\\cristina.priester\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cristina.priester\\Desktop\\E-Commerce\\-e-commerce-main(1)\\-e-commerce-main\\SiteEcommerce\\Utils\\obj\\",
+        "outputPath": "C:\\Users\\cristina.priester\\Downloads\\mock-treino-main\\mock-treino-main\\-e-commerce\\SiteEcommerce\\Utils\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
